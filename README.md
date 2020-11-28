@@ -1,3 +1,3 @@
 ## Responsive Resume Webiste
 
-build with HTML CSS and JS
+build with BOOTSTRAP, HTML, CSS and JS
