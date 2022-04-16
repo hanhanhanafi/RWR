@@ -1,5 +1,9 @@
 ## Responsive Resume Webiste
 
-build with HTML, CSS and JS
+Build with HTML, CSS and JS
 
-Demo : https://responsiveresumeweb.netlify.app/
+Demo : <a href="https://responsiveresumeweb.netlify.app/"> Klik untuk melihat demo </a>
+
+### Screenshot
+
+![Screenshot](https://github.com/hanhanhanafi/RWR/blob/main/img/Responsive%20Resume%20Website.png)
